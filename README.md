@@ -1,4 +1,4 @@
-# RSET-fullApiSpring
+# REST-fullApiSpring
 Simple rest-full api(account, product, discount, pay)
 Для тестирования API нужно:
 (я тестировал в Postman)
